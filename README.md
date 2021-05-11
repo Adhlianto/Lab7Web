@@ -1,6 +1,6 @@
 ## Nama   : Agung Adlhianto
 ## NIM    : 311910570
-## Kelas  : 311910570
+## Kelas  : TI.19.B.2
 
 # *LAB7WEB Belajar PHP*
 
